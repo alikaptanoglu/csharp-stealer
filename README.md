@@ -1,4 +1,4 @@
-#C# stealer
+# C# stealer
 ## installing
 clone and open
 ```cmd
